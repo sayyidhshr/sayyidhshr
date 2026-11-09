@@ -1,6 +1,6 @@
 # Hi there, I'm Sayyid Hasher 👋
 
-### UI/UX Designer & 💻 Front-End Developer
+### UI/UX Designer & Front-End Developer
 
 ---
 
