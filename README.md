@@ -24,6 +24,5 @@
 
 ### GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sayyidhshr&show_icons=true&theme=dark" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayyidhshr&layout=compact&theme=dark" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayyidhshr&theme=dark" width="85%" alt="GitHub Streak" />
 </p>
